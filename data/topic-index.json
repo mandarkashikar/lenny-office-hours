@@ -1,0 +1,915 @@
+{
+  "product-discovery": [
+    {
+      "guest": "Tanguy Crusson",
+      "filename": "podcasts/tanguy-crusson.md",
+      "title": "Hard-won lessons building 0 to 1 inside Atlassian | Tanguy Crusson (Head of Jira Product Discovery)",
+      "relevance_note": "keywords: discovery, product discovery"
+    },
+    {
+      "guest": "Teresa Torres",
+      "filename": "podcasts/teresa-torres.md",
+      "title": "Teresa Torres on how to interview customers, automating continuous discovery, the opportunity solution tree framework, making the case for user research, common interviewing mistakes, and much more",
+      "relevance_note": "keywords: continuous discovery, discovery, opportunity solution tree"
+    }
+  ],
+  "customer-interviewing": [
+    {
+      "guest": "Teresa Torres",
+      "filename": "podcasts/teresa-torres.md",
+      "title": "Teresa Torres on how to interview customers, automating continuous discovery, the opportunity solution tree framework, making the case for user research, common interviewing mistakes, and much more",
+      "relevance_note": "keywords: interview customers, interviewing mistakes, user research"
+    }
+  ],
+  "prioritization": [
+    {
+      "guest": "Shreyas Doshi",
+      "filename": "podcasts/shreyas-doshi.md",
+      "title": "4 questions Shreyas Doshi wishes he\u2019d asked himself sooner | Former PM leader at Stripe, Twitter, Google",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Ryan Singer",
+      "filename": "podcasts/ryan-singer.md",
+      "title": "A better way to plan, build, and ship products | Ryan Singer (creator of \u201cShape Up,\u201d early employee at 37signals)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Sander Schulhoff",
+      "filename": "podcasts/sander-schulhoff.md",
+      "title": "AI prompt engineering in 2025: What works and what doesn\u2019t | Sander Schulhoff (Learn Prompting, HackAPrompt)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Chip Huyen",
+      "filename": "podcasts/chip-huyen.md",
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Mike Krieger",
+      "filename": "podcasts/mike-krieger.md",
+      "title": "Anthropic\u2019s CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Marc Benioff",
+      "filename": "podcasts/marc-benioff.md",
+      "title": "Behind the founder: Marc Benioff",
+      "relevance_note": "keywords: focus; tags: strategy"
+    },
+    {
+      "guest": "Amjad Masad",
+      "filename": "podcasts/amjad-masad.md",
+      "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Benjamin Mann",
+      "filename": "podcasts/benjamin-mann.md",
+      "title": "Benjamin Mann",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Boris Cherny",
+      "filename": "podcasts/boris-cherny.md",
+      "title": "Boris Cherny",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Varun Mohan",
+      "filename": "podcasts/varun-mohan.md",
+      "title": "Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun Mohan (co-founder and CEO)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Jeff Weinstein",
+      "filename": "podcasts/jeff-weinstein.md",
+      "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Dylan Field",
+      "filename": "podcasts/dylan-field.md",
+      "title": "Dylan Field live at Config: Intuition, simplicity, and the future of design",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Guillermo Rauch",
+      "filename": "podcasts/guillermo-rauch.md",
+      "title": "Everyone\u2019s an engineer now: Inside v0\u2019s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "19ebe4cd49f9-Claire Vo OpenClaw",
+      "filename": "podcasts/19ebe4cd49f9-claire-vo-openclaw.md",
+      "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Gibson Biddle",
+      "filename": "podcasts/gibson-biddle.md",
+      "title": "Gibson Biddle on his DHM product strategy framework, GEM roadmap prioritization framework, 5 Netflix strategy mini case studies, building a personal board of directors, and much more",
+      "relevance_note": "keywords: prioritization; tags: strategy"
+    },
+    {
+      "guest": "Asha Sharma",
+      "filename": "podcasts/asha-sharma.md",
+      "title": "How 80,000 companies build with AI: products as organisms, the death of org charts, and why agents will outnumber employees by 2026 | Asha Sharma (CVP of AI Platform at Microsoft)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Scott Wu",
+      "filename": "podcasts/scott-wu.md",
+      "title": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Elizabeth Stone",
+      "filename": "podcasts/elizabeth-stone.md",
+      "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Farhan Thawar",
+      "filename": "podcasts/farhan-thawar.md",
+      "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Ben Williams",
+      "filename": "podcasts/ben-williams.md",
+      "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Carole Robin",
+      "filename": "podcasts/carole-robin.md",
+      "title": "How to build deeper, more robust relationships | Carole Robin (Stanford GSB professor, \u201cTouchy Feely\u201d)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Karri Saarinen",
+      "filename": "podcasts/karri-saarinen.md",
+      "title": "Inside Linear: Building with taste, craft, and focus | Karri Saarinen (co-founder, designer, CEO)",
+      "relevance_note": "keywords: focus"
+    },
+    {
+      "guest": "Daniel Lereya",
+      "filename": "podcasts/daniel-lereya.md",
+      "title": "Inside monday.com\u2019s transformation: radical transparency, impact over output, and their path to $1B ARR | Daniel Lereya (Chief Product and Technology Officer)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Logan Kilpatrick",
+      "filename": "podcasts/logan-kilpatrick.md",
+      "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Jenny Wen",
+      "filename": "podcasts/jenny-wen.md",
+      "title": "Jenny Wen",
+      "relevance_note": "keywords: tradeoff; tags: strategy"
+    },
+    {
+      "guest": "Ami Vora",
+      "filename": "podcasts/ami-vora.md",
+      "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Karina Nguyen",
+      "filename": "podcasts/karina-nguyen.md",
+      "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen (Research at OpenAI, ex-Anthropic)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Sherwin Wu V2",
+      "filename": "podcasts/sherwin-wu-v2.md",
+      "title": "Sherwin Wu V2",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Nir Eyal",
+      "filename": "podcasts/nir-eyal.md",
+      "title": "Strategies for becoming less distracted and improving focus | Nir Eyal (author of Indistractable and Hooked)",
+      "relevance_note": "keywords: focus; tags: strategy"
+    },
+    {
+      "guest": "Dan Shipper",
+      "filename": "podcasts/dan-shipper.md",
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Will Larson",
+      "filename": "podcasts/will-larson.md",
+      "title": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Inbal S",
+      "filename": "podcasts/inbal-s.md",
+      "title": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Ryan J. Salva",
+      "filename": "podcasts/ryan-j-salva.md",
+      "title": "The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot)",
+      "relevance_note": "keywords: tradeoff"
+    },
+    {
+      "guest": "Camille Fournier",
+      "filename": "podcasts/camille-fournier.md",
+      "title": "The things engineers are desperate for PMs to understand | Camille Fournier (author of \u201cThe Manager\u2019s Path,\u201d ex-CTO at Rent the Runway)",
+      "relevance_note": "keywords: tradeoff"
+    }
+  ],
+  "roadmapping": [
+    {
+      "guest": "John Mark Nickels",
+      "filename": "podcasts/john-mark-nickels.md",
+      "title": "Becoming a conscious leader: Leading without fear, finding your life\u2019s objective function, and getting better at vision and strategy | John Mark Nickels (Uber, Waymo, DoorDash)",
+      "relevance_note": "keywords: vision and strategy"
+    },
+    {
+      "guest": "Janna Bastow",
+      "filename": "podcasts/janna-bastow.md",
+      "title": "Building better product roadmaps | Janna Bastow (Mind the Product, ProdPad)",
+      "relevance_note": "keywords: roadmap"
+    },
+    {
+      "guest": "Gibson Biddle",
+      "filename": "podcasts/gibson-biddle.md",
+      "title": "Gibson Biddle on his DHM product strategy framework, GEM roadmap prioritization framework, 5 Netflix strategy mini case studies, building a personal board of directors, and much more",
+      "relevance_note": "keywords: roadmap"
+    },
+    {
+      "guest": "Alexander Embiricos",
+      "filename": "podcasts/alexander-embiricos.md",
+      "title": "The power user\u2019s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more | Alexander Embiricos",
+      "relevance_note": "keywords: planning"
+    }
+  ],
+  "engineering-collaboration": [
+    {
+      "guest": "Shreyas Doshi",
+      "filename": "podcasts/shreyas-doshi.md",
+      "title": "4 questions Shreyas Doshi wishes he\u2019d asked himself sooner | Former PM leader at Stripe, Twitter, Google",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Ryan Singer",
+      "filename": "podcasts/ryan-singer.md",
+      "title": "A better way to plan, build, and ship products | Ryan Singer (creator of \u201cShape Up,\u201d early employee at 37signals)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Sander Schulhoff",
+      "filename": "podcasts/sander-schulhoff.md",
+      "title": "AI prompt engineering in 2025: What works and what doesn\u2019t | Sander Schulhoff (Learn Prompting, HackAPrompt)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Chip Huyen",
+      "filename": "podcasts/chip-huyen.md",
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Mike Krieger",
+      "filename": "podcasts/mike-krieger.md",
+      "title": "Anthropic\u2019s CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Amjad Masad",
+      "filename": "podcasts/amjad-masad.md",
+      "title": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Benjamin Mann",
+      "filename": "podcasts/benjamin-mann.md",
+      "title": "Benjamin Mann",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Boris Cherny",
+      "filename": "podcasts/boris-cherny.md",
+      "title": "Boris Cherny",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Varun Mohan",
+      "filename": "podcasts/varun-mohan.md",
+      "title": "Building a magical AI code editor used by over 1 million developers in four months: The untold story of Windsurf | Varun Mohan (co-founder and CEO)",
+      "relevance_note": "keywords: developer, engineer, engineering; tags: engineering"
+    },
+    {
+      "guest": "Jeff Weinstein",
+      "filename": "podcasts/jeff-weinstein.md",
+      "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Laura Schaffer",
+      "filename": "podcasts/laura-schaffer.md",
+      "title": "Career frameworks, A/B testing mistakes, counterintuitive onboarding tips, selling to developers | Laura Schaffer (VP of Growth at Amplitude)",
+      "relevance_note": "keywords: developer; tags: engineering"
+    },
+    {
+      "guest": "Nikita Miller",
+      "filename": "podcasts/nikita-miller.md",
+      "title": "Driving alignment and urgency within teams, work-life balance, and the changing PM landscape | Nikita Miller (The Knot, Trello)",
+      "relevance_note": "keywords: cross-functional; tags: organization"
+    },
+    {
+      "guest": "Dylan Field",
+      "filename": "podcasts/dylan-field.md",
+      "title": "Dylan Field live at Config: Intuition, simplicity, and the future of design",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Guillermo Rauch",
+      "filename": "podcasts/guillermo-rauch.md",
+      "title": "Everyone\u2019s an engineer now: Inside v0\u2019s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "19ebe4cd49f9-Claire Vo OpenClaw",
+      "filename": "podcasts/19ebe4cd49f9-claire-vo-openclaw.md",
+      "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Asha Sharma",
+      "filename": "podcasts/asha-sharma.md",
+      "title": "How 80,000 companies build with AI: products as organisms, the death of org charts, and why agents will outnumber employees by 2026 | Asha Sharma (CVP of AI Platform at Microsoft)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Dhanji R. Prasanna",
+      "filename": "podcasts/dhanji-r-prasanna.md",
+      "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+      "relevance_note": "keywords: engineer, engineers; tags: engineering"
+    },
+    {
+      "guest": "Scott Wu",
+      "filename": "podcasts/scott-wu.md",
+      "title": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Elizabeth Stone",
+      "filename": "podcasts/elizabeth-stone.md",
+      "title": "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Farhan Thawar",
+      "filename": "podcasts/farhan-thawar.md",
+      "title": "How Shopify builds a high-intensity culture | Farhan Thawar (VP and Head of Eng)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Ben Williams",
+      "filename": "podcasts/ben-williams.md",
+      "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Carole Robin",
+      "filename": "podcasts/carole-robin.md",
+      "title": "How to build deeper, more robust relationships | Carole Robin (Stanford GSB professor, \u201cTouchy Feely\u201d)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Nicole Forsgren",
+      "filename": "podcasts/nicole-forsgren.md",
+      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "relevance_note": "keywords: developer; tags: engineering"
+    },
+    {
+      "guest": "Gaurav Misra",
+      "filename": "podcasts/gaurav-misra.md",
+      "title": "How to win in the AI era: Ship a feature every week, embrace technical debt, ruthlessly cut scope, and create magic your competitors can't copy | Gaurav Misra (CEO and co-founder of Captions)",
+      "relevance_note": "keywords: engineer, engineering, technical; tags: engineering"
+    },
+    {
+      "guest": "Daniel Lereya",
+      "filename": "podcasts/daniel-lereya.md",
+      "title": "Inside monday.com\u2019s transformation: radical transparency, impact over output, and their path to $1B ARR | Daniel Lereya (Chief Product and Technology Officer)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Logan Kilpatrick",
+      "filename": "podcasts/logan-kilpatrick.md",
+      "title": "Inside OpenAI | Logan Kilpatrick (head of developer relations)",
+      "relevance_note": "keywords: developer, engineer, engineering; tags: engineering"
+    },
+    {
+      "guest": "Jenny Wen",
+      "filename": "podcasts/jenny-wen.md",
+      "title": "Jenny Wen",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Gergely",
+      "filename": "podcasts/gergely.md",
+      "title": "Leaving big tech to build the #1 technology newsletter | Gergely Orosz (The Pragmatic Engineer)",
+      "relevance_note": "keywords: engineer"
+    },
+    {
+      "guest": "Ami Vora",
+      "filename": "podcasts/ami-vora.md",
+      "title": "Making an impact through authenticity and curiosity | Ami Vora (CPO at Faire, ex-WhatsApp, FB, IG)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Karina Nguyen",
+      "filename": "podcasts/karina-nguyen.md",
+      "title": "OpenAI researcher on why soft skills are the future of work | Karina Nguyen (Research at OpenAI, ex-Anthropic)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Sherwin Wu V2",
+      "filename": "podcasts/sherwin-wu-v2.md",
+      "title": "Sherwin Wu V2",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Shreyas Doshi Live",
+      "filename": "podcasts/shreyas-doshi-live.md",
+      "title": "Shreyas Doshi Live",
+      "relevance_note": "keywords: cross-functional; tags: organization"
+    },
+    {
+      "guest": "Dan Shipper",
+      "filename": "podcasts/dan-shipper.md",
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Will Larson",
+      "filename": "podcasts/will-larson.md",
+      "title": "The engineering mindset | Will Larson (Carta, Stripe, Uber, Calm, Digg)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Inbal S",
+      "filename": "podcasts/inbal-s.md",
+      "title": "The future of AI in software development | Inbal Shani (CPO of GitHub)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Zevi Arnovitz",
+      "filename": "podcasts/zevi-arnovitz.md",
+      "title": "The non-technical PM\u2019s guide to building with Cursor | Zevi Arnovitz (Meta)",
+      "relevance_note": "keywords: technical; tags: engineering"
+    },
+    {
+      "guest": "Alexander Embiricos",
+      "filename": "podcasts/alexander-embiricos.md",
+      "title": "The power user\u2019s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more | Alexander Embiricos",
+      "relevance_note": "keywords: engineer, engineering; tags: engineering, organization"
+    },
+    {
+      "guest": "Michael Truell",
+      "filename": "podcasts/michael-truell.md",
+      "title": "The rise of Cursor: The $300M ARR AI tool that engineers can\u2019t stop using | Michael Truell (co-founder and CEO)",
+      "relevance_note": "keywords: engineer, engineers; tags: engineering"
+    },
+    {
+      "guest": "Ryan J. Salva",
+      "filename": "podcasts/ryan-j-salva.md",
+      "title": "The role of AI in product development | Ryan J. Salva (VP of Product at GitHub, Copilot)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Camille Fournier",
+      "filename": "podcasts/camille-fournier.md",
+      "title": "The things engineers are desperate for PMs to understand | Camille Fournier (author of \u201cThe Manager\u2019s Path,\u201d ex-CTO at Rent the Runway)",
+      "relevance_note": "keywords: engineer, engineering, engineering tradeoffs; tags: engineering"
+    },
+    {
+      "guest": "Jeanne Grosser",
+      "filename": "podcasts/jeanne-grosser.md",
+      "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+      "relevance_note": "keywords: engineer, engineering"
+    }
+  ],
+  "metrics-and-success": [
+    {
+      "guest": "Jason Cohen",
+      "filename": "podcasts/jason-cohen.md",
+      "title": "5 questions to ask when your product stops growing | Jason Cohen (2x unicorn founder)",
+      "relevance_note": "keywords: retention; tags: growth"
+    },
+    {
+      "guest": "Meltem Kuran",
+      "filename": "podcasts/meltem-kuran.md",
+      "title": "An inside look at Deel\u2019s unprecedented growth | Meltem Kuran Berkowitz (Head of Growth)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Jackson Shuttleworth",
+      "filename": "podcasts/jackson-shuttleworth.md",
+      "title": "Behind the product: Duolingo streaks | Jackson Shuttleworth (Group PM, Retention Team)",
+      "relevance_note": "keywords: growth, retention; tags: analytics, growth"
+    },
+    {
+      "guest": "Annie Pearl",
+      "filename": "podcasts/annie-pearl.md",
+      "title": "Behind the scenes of Calendly\u2019s rapid growth | Annie Pearl (CPO)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Archie Abrams",
+      "filename": "podcasts/archie-abrams.md",
+      "title": "Breaking the rules of growth: Why Shopify bans KPIs, optimizes for churn, prioritizes intuition, and builds toward a 100-year vision | Archie Abrams (VP Product, Head of Growth at Shopify)",
+      "relevance_note": "keywords: growth, kpi, kpis; tags: analytics, growth"
+    },
+    {
+      "guest": "Brian Balfour",
+      "filename": "podcasts/brian-balfour.md",
+      "title": "Brian Balfour: 10 lessons on career, growth, and life",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Jess Lachs",
+      "filename": "podcasts/jess-lachs.md",
+      "title": "Building a world-class data org | Jessica Lachs (VP of Analytics and Data Science at DoorDash)",
+      "relevance_note": "keywords: analytics; tags: analytics, growth"
+    },
+    {
+      "guest": "Katie Dill",
+      "filename": "podcasts/katie-dill.md",
+      "title": "Building beautiful products with Stripe\u2019s Head of Design | Katie Dill (Stripe, Airbnb, Lyft)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Melissa Tan",
+      "filename": "podcasts/melissa-tan.md",
+      "title": "Building high-performing teams | Melissa Tan (Webflow, Dropbox, Canva)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Jeff Weinstein",
+      "filename": "podcasts/jeff-weinstein.md",
+      "title": "Building product at Stripe: craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+      "relevance_note": "keywords: metric, metrics; tags: analytics"
+    },
+    {
+      "guest": "Sachin Monga",
+      "filename": "podcasts/sachin-monga.md",
+      "title": "Building Substack | Sachin Monga (Substack, Facebook)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Laura Schaffer",
+      "filename": "podcasts/laura-schaffer.md",
+      "title": "Career frameworks, A/B testing mistakes, counterintuitive onboarding tips, selling to developers | Laura Schaffer (VP of Growth at Amplitude)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Gia Laudi",
+      "filename": "podcasts/gia-laudi.md",
+      "title": "Customer-led growth | Georgiana Laudi (Forget The Funnel)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Dan Hockenmaier",
+      "filename": "podcasts/dan-hockenmaier.md",
+      "title": "Developing a growth model + marketplace growth strategy | Dan Hockenmaier (Faire, Thumbtack, Reforge)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Elena Verna 4.0",
+      "filename": "podcasts/elena-verna-40.md",
+      "title": "Elena Verna 4.0",
+      "relevance_note": "keywords: growth, kpi, kpis; tags: growth"
+    },
+    {
+      "guest": "Elena Verna 3.0",
+      "filename": "podcasts/elena-verna-30.md",
+      "title": "Elena Verna on how B2B growth is changing, product-led growth, product-led sales, why you should go freemium not trial, what features to make free, and much more",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "EOY Review",
+      "filename": "podcasts/eoy-review.md",
+      "title": "EOY Review",
+      "relevance_note": "keywords: analytics; tags: analytics"
+    },
+    {
+      "guest": "Richard Rumelt",
+      "filename": "podcasts/richard-rumelt.md",
+      "title": "Good Strategy, Bad Strategy | Richard Rumelt",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Krithika Shankarraman",
+      "filename": "podcasts/krithika-shankarraman.md",
+      "title": "Growth tactics from OpenAI and Stripe\u2019s first marketer | Krithika Shankarraman",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Julian Shapiro",
+      "filename": "podcasts/julian-shapiro.md",
+      "title": "Growth tactics, retention strategies, and becoming a better writer | Julian Shapiro (Demand Curve, Hyper, Webflow, TechCrunch)",
+      "relevance_note": "keywords: growth, retention; tags: analytics, growth"
+    },
+    {
+      "guest": "Sriram and Aarthi",
+      "filename": "podcasts/sriram-and-aarthi.md",
+      "title": "Hot takes and techno-optimism from tech\u2019s top power couple | Sriram and Aarthi",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Benjamin Lauzier",
+      "filename": "podcasts/benjamin-lauzier.md",
+      "title": "How marketplaces win: Liquidity, growth levers, quality, and more | Benjamin Lauzier (Lyft, Thumbtack, Reforge)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Ben Williams",
+      "filename": "podcasts/ben-williams.md",
+      "title": "How Snyk built a product-led growth juggernaut | Ben Williams (VP of Product at Snyk)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Carilu Dietrich",
+      "filename": "podcasts/carilu-dietrich.md",
+      "title": "How to achieve hypergrowth in your business and career | Carilu Dietrich (Atlassian, Miro, Segment, 1Password)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Adam Fishman",
+      "filename": "podcasts/adam-fishman.md",
+      "title": "How to build a high-performing growth team | Adam Fishman (Patreon, Lyft, Imperfect Foods)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Fareed Mosavat",
+      "filename": "podcasts/fareed-mosavat.md",
+      "title": "How to build trust and grow as a product leader | Fareed Mosavat (Reforge, Slack, Instacart, Zynga, Pixar)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Donna Lichaw",
+      "filename": "podcasts/donna-lichaw.md",
+      "title": "How to discover your superpowers, own your story, and unlock personal growth | Donna Lichaw (author of The Leader\u2019s Journey)",
+      "relevance_note": "keywords: growth"
+    },
+    {
+      "guest": "Nilan Peiris",
+      "filename": "podcasts/nilan-peiris.md",
+      "title": "How to drive word of mouth | Nilan Peiris (CPO of Wise)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Albert Cheng",
+      "filename": "podcasts/albert-cheng.md",
+      "title": "How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Yuriy Timen",
+      "filename": "podcasts/yuriy-timen.md",
+      "title": "How to grow a subscription business | Yuriy Timen (Grammarly, Canva, Airtable)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Deb Liu",
+      "filename": "podcasts/deb-liu.md",
+      "title": "How to own your career growth and become a powerful product leader | Deb Liu, Ancestry (ex-Facebook, PayPal)",
+      "relevance_note": "keywords: growth"
+    },
+    {
+      "guest": "Naomi Ionita",
+      "filename": "podcasts/naomi-ionita.md",
+      "title": "How to price your product | Naomi Ionita (Menlo Ventures)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Crystal W",
+      "filename": "podcasts/crystal-w.md",
+      "title": "How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Casey Winters",
+      "filename": "podcasts/casey-winters.md",
+      "title": "How to sell your ideas and rise within your company | Casey Winters, Eventbrite",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Adriel Frederick",
+      "filename": "podcasts/adriel-frederick.md",
+      "title": "Humanizing product development | Adriel Frederick (Reddit, Lyft, Facebook)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Tim Holley",
+      "filename": "podcasts/tim-holley.md",
+      "title": "Inside Etsy\u2019s product, growth, and marketplace evolution | Tim Holley (VP of Product)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Jason Fried",
+      "filename": "podcasts/jason-fried.md",
+      "title": "Jason Fried challenges your thinking on fundraising, goals, growth, and more",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Zoelle Egner",
+      "filename": "podcasts/zoelle-egner.md",
+      "title": "Lessons from Airtable\u2019s unconventional growth strategy | Zoelle Egner",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Sri Batchu",
+      "filename": "podcasts/sri-batchu.md",
+      "title": "Lessons from scaling Ramp | Sri Batchu (Ramp, Instacart, Opendoor)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Scott Belsky",
+      "filename": "podcasts/scott-belsky.md",
+      "title": "Lessons on building product sense, navigating AI, optimizing the first mile, and making it through the messy middle | Scott Belsky (Adobe, Behance)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Luc Levesque",
+      "filename": "podcasts/luc-levesque.md",
+      "title": "Leveraging growth advisors, hiring well, mastering SEO, and honing your craft | Luc Levesque (Shopify, Meta, TripAdvisor)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Jules Walter",
+      "filename": "podcasts/jules-walter.md",
+      "title": "Leveraging mentors to uplevel your career | Jules Walter (YouTube, Slack)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Lauryn Isford",
+      "filename": "podcasts/lauryn-isford.md",
+      "title": "Mastering onboarding | Lauryn Isford (Head of Growth at Airtable)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Jonathan Becker",
+      "filename": "podcasts/jonathan-becker.md",
+      "title": "Mastering paid growth | Jonathan Becker (Thrive Digital)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Merci Grace",
+      "filename": "podcasts/merci-grace.md",
+      "title": "Merci Grace (ex-Head of Growth at Slack) on PLG, interviewing, storytelling, building a diverse team, hiring salespeople, building a growth team, and much more",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Naomi Gleit",
+      "filename": "podcasts/naomi-gleit.md",
+      "title": "Meta\u2019s Head of Product (and 29th employee) on working with Mark Zuckerberg, early growth tactics, why PMs are like conductors, and more | Naomi Gleit",
+      "relevance_note": "keywords: growth"
+    },
+    {
+      "guest": "Jeremy Henrickson",
+      "filename": "podcasts/jeremy-henrickson.md",
+      "title": "Moving fast and navigating uncertainty | Jeremy Henrickson (Rippling, Coinbase)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Oji Udezue",
+      "filename": "podcasts/oji-udezue.md",
+      "title": "Picking sharp problems, increasing virality, and unique product frameworks | Oji Udezue (Typeform, Twitter, Calendly, Atlassian)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Christopher Miller",
+      "filename": "podcasts/christopher-miller.md",
+      "title": "Relentless curiosity, radical accountability, and HubSpot\u2019s winning growth formula | Christopher Miller (VP of Product, Growth and AI)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Eli Schwartz",
+      "filename": "podcasts/eli-schwartz.md",
+      "title": "Rethinking SEO in the age of AI | Eli Schwartz (SEO advisor, author)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Gina Gotthilf",
+      "filename": "podcasts/gina-gotthilf.md",
+      "title": "Scaling Duolingo, embracing failure, and insight into Latin America\u2019s tech scene | Gina Gotthilf (Latitud, Duolingo)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Kevin Aluwi",
+      "filename": "podcasts/kevin-aluwi.md",
+      "title": "Taxi mafias, cash vaults, and 100% MoM growth: The story behind Southeast Asia\u2019s biggest startup | Kevin Aluwi (Gojek)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Heidi Helfand",
+      "filename": "podcasts/heidi-helfand.md",
+      "title": "The art and wisdom of changing teams | Heidi Helfand (author of Dynamic Reteaming)",
+      "relevance_note": "keywords: growth"
+    },
+    {
+      "guest": "Sarah Tavel",
+      "filename": "podcasts/sarah-tavel.md",
+      "title": "The hierarchy of engagement | Sarah Tavel (Benchmark, Greylock, Pinterest)",
+      "relevance_note": "keywords: engagement; tags: growth"
+    },
+    {
+      "guest": "Molly Graham",
+      "filename": "podcasts/molly-graham.md",
+      "title": "The high-growth handbook: Molly Graham\u2019s frameworks for leading through chaos, change, and scale",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Sean Ellis",
+      "filename": "podcasts/sean-ellis.md",
+      "title": "The original growth hacker reveals his secrets | Sean Ellis (author of \u201cHacking Growth\u201d)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Shishir Mehrotra",
+      "filename": "podcasts/shishir-mehrotra.md",
+      "title": "The rituals of great teams | Shishir Mehrotra of Coda, YouTube, Microsoft",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Hila Qu",
+      "filename": "podcasts/hila-qu.md",
+      "title": "The ultimate guide to adding a PLG motion | Hila Qu (Reforge, GitLab)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Austin Hay",
+      "filename": "podcasts/austin-hay.md",
+      "title": "The ultimate guide to Martech | Austin Hay (Reforge, Ramp, Runway)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Christina Wodtke",
+      "filename": "podcasts/christina-wodtke.md",
+      "title": "The ultimate guide to OKRs | Christina Wodtke (Stanford)",
+      "relevance_note": "keywords: okr, okrs; tags: growth"
+    },
+    {
+      "guest": "Timothy Davis",
+      "filename": "podcasts/timothy-davis.md",
+      "title": "The ultimate guide to performance marketing | Timothy Davis (Shopify)",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Emilie Gerber",
+      "filename": "podcasts/emilie-gerber.md",
+      "title": "The ultimate guide to PR | Emilie Gerber (founder of Six Eastern)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Tobi Lutke",
+      "filename": "podcasts/tobi-lutke.md",
+      "title": "Tobi Lutke",
+      "relevance_note": "keywords: growth; tags: analytics, growth"
+    },
+    {
+      "guest": "Christine Itwaru",
+      "filename": "podcasts/christine-itwaru.md",
+      "title": "Understanding the role of product ops | Christine Itwaru (Pendo)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Bangaly Kaba",
+      "filename": "podcasts/bangaly-kaba.md",
+      "title": "Unorthodox frameworks for growing your product, career, and impact | Bangaly Kaba (YouTube, Instagram, Facebook, Instacart)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "John Cutler",
+      "filename": "podcasts/john-cutler.md",
+      "title": "What differentiates the highest-performing product teams | John Cutler (Amplitude, The Beautiful Mess)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Adam Grenier",
+      "filename": "podcasts/adam-grenier.md",
+      "title": "When and how to invest in new acquisition channels | Adam Grenier (Uber, MasterClass)",
+      "relevance_note": "keywords: growth; tags: growth"
+    },
+    {
+      "guest": "Grant Lee",
+      "filename": "podcasts/grant-lee.md",
+      "title": "\u201cDumbest idea I\u2019ve heard\u201d to $100M ARR: Inside the rise of Gamma | Grant Lee (CEO)",
+      "relevance_note": "keywords: growth; tags: growth"
+    }
+  ],
+  "killing-features": []
+}

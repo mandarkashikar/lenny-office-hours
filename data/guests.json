@@ -1,0 +1,2081 @@
+{
+  "total_podcast_episodes": 291,
+  "unique_guests": 291,
+  "guests_with_3_plus_episodes": [],
+  "core_guest_matches": [
+    {
+      "name": "Teresa Torres",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/teresa-torres.md"
+      ]
+    },
+    {
+      "name": "Marty Cagan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/marty-cagan.md"
+      ]
+    },
+    {
+      "name": "Shreyas Doshi",
+      "episode_count": 2,
+      "filenames": [
+        "podcasts/shreyas-doshi-live.md",
+        "podcasts/shreyas-doshi.md"
+      ]
+    },
+    {
+      "name": "Claire Vo",
+      "episode_count": 2,
+      "filenames": [
+        "podcasts/19ebe4cd49f9-claire-vo-openclaw.md",
+        "podcasts/claire-vo.md"
+      ]
+    },
+    {
+      "name": "Lenny Rachitsky",
+      "episode_count": 0,
+      "filenames": []
+    }
+  ],
+  "guests": [
+    {
+      "guest": "19ebe4cd49f9-Claire Vo OpenClaw",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/19ebe4cd49f9-claire-vo-openclaw.md"
+      ]
+    },
+    {
+      "guest": "Ada Chen Rekhi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ada-chen-rekhi.md"
+      ]
+    },
+    {
+      "guest": "Adam Fishman",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/adam-fishman.md"
+      ]
+    },
+    {
+      "guest": "Adam Grenier",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/adam-grenier.md"
+      ]
+    },
+    {
+      "guest": "Adriel Frederick",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/adriel-frederick.md"
+      ]
+    },
+    {
+      "guest": "Aishwarya Naresh Reganti + Kiriti Badam",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/aishwarya-naresh-reganti--kiriti-badam.md"
+      ]
+    },
+    {
+      "guest": "Albert Cheng",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/albert-cheng.md"
+      ]
+    },
+    {
+      "guest": "Alex Hardimen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/alex-hardimen.md"
+      ]
+    },
+    {
+      "guest": "Alex Komoroske",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/alex-komoroske.md"
+      ]
+    },
+    {
+      "guest": "Alexander Embiricos",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/alexander-embiricos.md"
+      ]
+    },
+    {
+      "guest": "Alisa Cohn",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/alisa-cohn.md"
+      ]
+    },
+    {
+      "guest": "Ami Vora",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ami-vora.md"
+      ]
+    },
+    {
+      "guest": "Amjad Masad",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/amjad-masad.md"
+      ]
+    },
+    {
+      "guest": "Andrew Wilkinson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/andrew-wilkinson.md"
+      ]
+    },
+    {
+      "guest": "Andy Johns",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/andy-johns.md"
+      ]
+    },
+    {
+      "guest": "Andy Raskin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/andy-raskin-.md"
+      ]
+    },
+    {
+      "guest": "Anneka Gupta",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/anneka-gupta.md"
+      ]
+    },
+    {
+      "guest": "Annie Duke",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/annie-duke.md"
+      ]
+    },
+    {
+      "guest": "Annie Pearl",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/annie-pearl.md"
+      ]
+    },
+    {
+      "guest": "Anton Osika",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/anton-osika.md"
+      ]
+    },
+    {
+      "guest": "Anuj Rathi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/anuj-rathi.md"
+      ]
+    },
+    {
+      "guest": "Aparna Chennapragada",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/aparna-chennapragada.md"
+      ]
+    },
+    {
+      "guest": "April Dunford",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/april-dunford.md"
+      ]
+    },
+    {
+      "guest": "Archie Abrams",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/archie-abrams.md"
+      ]
+    },
+    {
+      "guest": "Arielle Jackson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/arielle-jackson.md"
+      ]
+    },
+    {
+      "guest": "Asha Sharma",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/asha-sharma.md"
+      ]
+    },
+    {
+      "guest": "Austin Hay",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/austin-hay.md"
+      ]
+    },
+    {
+      "guest": "Ayo Omojola",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ayo-omojola.md"
+      ]
+    },
+    {
+      "guest": "Bangaly Kaba",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/bangaly-kaba.md"
+      ]
+    },
+    {
+      "guest": "Barbra Gago",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/barbra-gago.md"
+      ]
+    },
+    {
+      "guest": "Ben Horowitz",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ben-horowitz.md"
+      ]
+    },
+    {
+      "guest": "Ben Williams",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ben-williams.md"
+      ]
+    },
+    {
+      "guest": "Benjamin Lauzier",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/benjamin-lauzier.md"
+      ]
+    },
+    {
+      "guest": "Benjamin Mann",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/benjamin-mann.md"
+      ]
+    },
+    {
+      "guest": "Bill Carr",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/bill-carr.md"
+      ]
+    },
+    {
+      "guest": "Bob Baxley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/bob-baxley.md"
+      ]
+    },
+    {
+      "guest": "Bob Moesta",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/bob-moesta.md"
+      ]
+    },
+    {
+      "guest": "Boris Cherny",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/boris-cherny.md"
+      ]
+    },
+    {
+      "guest": "Boz",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/boz.md"
+      ]
+    },
+    {
+      "guest": "Brandon Chu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/brandon-chu.md"
+      ]
+    },
+    {
+      "guest": "Brendan Foody",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/brendan-foody.md"
+      ]
+    },
+    {
+      "guest": "Bret Taylor",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/bret-taylor.md"
+      ]
+    },
+    {
+      "guest": "Brian Balfour",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/brian-balfour.md"
+      ]
+    },
+    {
+      "guest": "Brian Halligan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/brian-halligan.md"
+      ]
+    },
+    {
+      "guest": "Brian Tolkin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/brian-tolkin.md"
+      ]
+    },
+    {
+      "guest": "Cam Adams",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/cam-adams.md"
+      ]
+    },
+    {
+      "guest": "Camille Fournier",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/camille-fournier.md"
+      ]
+    },
+    {
+      "guest": "Camille Hearst",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/camille-hearst.md"
+      ]
+    },
+    {
+      "guest": "Camille Ricketts",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/camille-ricketts.md"
+      ]
+    },
+    {
+      "guest": "Carilu Dietrich",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/carilu-dietrich.md"
+      ]
+    },
+    {
+      "guest": "Carole Robin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/carole-robin.md"
+      ]
+    },
+    {
+      "guest": "Casey Winters",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/casey-winters.md"
+      ]
+    },
+    {
+      "guest": "Chandra Janakiraman",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/chandra-janakiraman.md"
+      ]
+    },
+    {
+      "guest": "Chip Conley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/chip-conley.md"
+      ]
+    },
+    {
+      "guest": "Chip Huyen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/chip-huyen.md"
+      ]
+    },
+    {
+      "guest": "Chris Hutchins",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/chris-hutchins.md"
+      ]
+    },
+    {
+      "guest": "Christian Idiodi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/christian-idiodi.md"
+      ]
+    },
+    {
+      "guest": "Christina Wodtke",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/christina-wodtke.md"
+      ]
+    },
+    {
+      "guest": "Christine Itwaru",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/christine-itwaru.md"
+      ]
+    },
+    {
+      "guest": "Christopher Lochhead",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/christopher-lochhead.md"
+      ]
+    },
+    {
+      "guest": "Christopher Miller",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/christopher-miller.md"
+      ]
+    },
+    {
+      "guest": "Claire Butler",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/claire-butler.md"
+      ]
+    },
+    {
+      "guest": "Claire Hughes Johnson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/claire-hughes-johnson.md"
+      ]
+    },
+    {
+      "guest": "Claire Vo",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/claire-vo.md"
+      ]
+    },
+    {
+      "guest": "Crystal W",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/crystal-w.md"
+      ]
+    },
+    {
+      "guest": "Dalton Caldwell",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dalton-caldwell.md"
+      ]
+    },
+    {
+      "guest": "Dan Hockenmaier",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dan-hockenmaier.md"
+      ]
+    },
+    {
+      "guest": "Dan Shipper",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dan-shipper.md"
+      ]
+    },
+    {
+      "guest": "Daniel Lereya",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/daniel-lereya.md"
+      ]
+    },
+    {
+      "guest": "David Placek",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/david-placek.md"
+      ]
+    },
+    {
+      "guest": "David Singleton",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/david-singleton.md"
+      ]
+    },
+    {
+      "guest": "Deb Liu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/deb-liu.md"
+      ]
+    },
+    {
+      "guest": "Dhanji R. Prasanna",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dhanji-r-prasanna.md"
+      ]
+    },
+    {
+      "guest": "Dharmesh Shah",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dharmesh-shah.md"
+      ]
+    },
+    {
+      "guest": "Dmitry Zlokazov",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dmitry-zlokazov.md"
+      ]
+    },
+    {
+      "guest": "Donna Lichaw",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/donna-lichaw.md"
+      ]
+    },
+    {
+      "guest": "Dr. Becky Kennedy",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dr-becky-kennedy.md"
+      ]
+    },
+    {
+      "guest": "Dr. Fei Fei Li",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dr-fei-fei-li.md"
+      ]
+    },
+    {
+      "guest": "Drew Houston",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/drew-houston.md"
+      ]
+    },
+    {
+      "guest": "Dylan Field",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/dylan-field.md"
+      ]
+    },
+    {
+      "guest": "Ebi Atawodi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ebi-atawodi.md"
+      ]
+    },
+    {
+      "guest": "Edwin Chen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/edwin-chen.md"
+      ]
+    },
+    {
+      "guest": "Eeke de Milliano",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eeke-de-milliano.md"
+      ]
+    },
+    {
+      "guest": "Elena Verna 3.0",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/elena-verna-30.md"
+      ]
+    },
+    {
+      "guest": "Elena Verna 4.0",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/elena-verna-40.md"
+      ]
+    },
+    {
+      "guest": "Eli Schwartz",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eli-schwartz.md"
+      ]
+    },
+    {
+      "guest": "Elizabeth Stone",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/elizabeth-stone.md"
+      ]
+    },
+    {
+      "guest": "Emilie Gerber",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/emilie-gerber.md"
+      ]
+    },
+    {
+      "guest": "Emily Kramer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/emily-kramer.md"
+      ]
+    },
+    {
+      "guest": "Eoghan McCabe",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eoghan-mccabe.md"
+      ]
+    },
+    {
+      "guest": "EOY Review",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eoy-review.md"
+      ]
+    },
+    {
+      "guest": "Eric Ries",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eric-ries.md"
+      ]
+    },
+    {
+      "guest": "Eric Simons",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/eric-simons.md"
+      ]
+    },
+    {
+      "guest": "Ethan Evans 2.0",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ethan-evans-20.md"
+      ]
+    },
+    {
+      "guest": "Ethan Smith",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ethan-smith.md"
+      ]
+    },
+    {
+      "guest": "Evan LaPointe",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/evan-lapointe.md"
+      ]
+    },
+    {
+      "guest": "Failure",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/failure.md"
+      ]
+    },
+    {
+      "guest": "Fareed Mosavat",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/fareed-mosavat.md"
+      ]
+    },
+    {
+      "guest": "Farhan Thawar",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/farhan-thawar.md"
+      ]
+    },
+    {
+      "guest": "Garrett Lord",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/garrett-lord.md"
+      ]
+    },
+    {
+      "guest": "Gaurav Misra",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gaurav-misra.md"
+      ]
+    },
+    {
+      "guest": "Geoff Charles",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/geoff-charles.md"
+      ]
+    },
+    {
+      "guest": "Geoffrey Moore",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/geoffrey-moore.md"
+      ]
+    },
+    {
+      "guest": "Gergely",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gergely.md"
+      ]
+    },
+    {
+      "guest": "Gia Laudi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gia-laudi.md"
+      ]
+    },
+    {
+      "guest": "Gibson Biddle",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gibson-biddle.md"
+      ]
+    },
+    {
+      "guest": "Gina Gotthilf",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gina-gotthilf.md"
+      ]
+    },
+    {
+      "guest": "Gokul Rajaram",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gokul-rajaram.md"
+      ]
+    },
+    {
+      "guest": "Graham Weaver",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/graham-weaver.md"
+      ]
+    },
+    {
+      "guest": "Grant Lee",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/grant-lee.md"
+      ]
+    },
+    {
+      "guest": "Guillermo Rauch",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/guillermo-rauch.md"
+      ]
+    },
+    {
+      "guest": "Gustaf Alstromer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gustaf-alstromer.md"
+      ]
+    },
+    {
+      "guest": "Gustav S\u00f6derstr\u00f6m",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/gustav-soderstrom.md"
+      ]
+    },
+    {
+      "guest": "Hamel Husain & Shreya Shankar",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/hamel-husain--shreya-shankar.md"
+      ]
+    },
+    {
+      "guest": "Hamilton Helmer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/hamilton-helmer.md"
+      ]
+    },
+    {
+      "guest": "Hari Srinivasan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/hari-srinivasan.md"
+      ]
+    },
+    {
+      "guest": "Heidi Helfand",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/heidi-helfand.md"
+      ]
+    },
+    {
+      "guest": "Hila Qu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/hila-qu.md"
+      ]
+    },
+    {
+      "guest": "Hilary Gridley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/hilary-gridley.md"
+      ]
+    },
+    {
+      "guest": "Howie Liu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/howie-liu.md"
+      ]
+    },
+    {
+      "guest": "Ian McAllister",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ian-mcallister.md"
+      ]
+    },
+    {
+      "guest": "Inbal S",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/inbal-s.md"
+      ]
+    },
+    {
+      "guest": "Interview Q Compilation",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/interview-q-compilation.md"
+      ]
+    },
+    {
+      "guest": "Itamar Gilad",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/itamar-gilad.md"
+      ]
+    },
+    {
+      "guest": "Ivan Zhao",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ivan-zhao.md"
+      ]
+    },
+    {
+      "guest": "Jackie Bavaro",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jackie-bavaro.md"
+      ]
+    },
+    {
+      "guest": "Jackson Shuttleworth",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jackson-shuttleworth.md"
+      ]
+    },
+    {
+      "guest": "Jag Duggal",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jag-duggal.md"
+      ]
+    },
+    {
+      "guest": "Jake Knapp + John Zeratsky",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jake-knapp--john-zeratsky.md"
+      ]
+    },
+    {
+      "guest": "Janna Bastow",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/janna-bastow.md"
+      ]
+    },
+    {
+      "guest": "Jason Cohen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-cohen.md"
+      ]
+    },
+    {
+      "guest": "Jason Droege",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-droege.md"
+      ]
+    },
+    {
+      "guest": "Jason Feifer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-feifer.md"
+      ]
+    },
+    {
+      "guest": "Jason Fried",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-fried.md"
+      ]
+    },
+    {
+      "guest": "Jason M Lemkin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-m-lemkin.md"
+      ]
+    },
+    {
+      "guest": "Jason Shah",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jason-shah.md"
+      ]
+    },
+    {
+      "guest": "Jeanne Grosser",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jeanne-grosser.md"
+      ]
+    },
+    {
+      "guest": "Jeetu Patel",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jeetu-patel.md"
+      ]
+    },
+    {
+      "guest": "Jeff Weinstein",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jeff-weinstein.md"
+      ]
+    },
+    {
+      "guest": "Jeffrey Pfeffer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jeffrey-pfeffer.md"
+      ]
+    },
+    {
+      "guest": "Jen Abel",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jen-abel.md"
+      ]
+    },
+    {
+      "guest": "Jenny Wen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jenny-wen.md"
+      ]
+    },
+    {
+      "guest": "Jeremy Henrickson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jeremy-henrickson.md"
+      ]
+    },
+    {
+      "guest": "Jerry Colonna",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jerry-colonna.md"
+      ]
+    },
+    {
+      "guest": "Jess Lachs",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jess-lachs.md"
+      ]
+    },
+    {
+      "guest": "Jessica Fain",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jessica-fain.md"
+      ]
+    },
+    {
+      "guest": "Jessica Hische",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jessica-hische.md"
+      ]
+    },
+    {
+      "guest": "Jessica Livingston",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jessica-livingston.md"
+      ]
+    },
+    {
+      "guest": "Jiaona Zhang",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jiaona-zhang.md"
+      ]
+    },
+    {
+      "guest": "Joe Hudson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/joe-hudson.md"
+      ]
+    },
+    {
+      "guest": "John Cutler",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/john-cutler.md"
+      ]
+    },
+    {
+      "guest": "John Mark Nickels",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/john-mark-nickels.md"
+      ]
+    },
+    {
+      "guest": "Jonathan Becker",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jonathan-becker.md"
+      ]
+    },
+    {
+      "guest": "Jonathan Lowenhar",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jonathan-lowenhar.md"
+      ]
+    },
+    {
+      "guest": "Jonny Miller",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jonny-miller.md"
+      ]
+    },
+    {
+      "guest": "Josh Miller",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/josh-miller.md"
+      ]
+    },
+    {
+      "guest": "Judd Antin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/judd-antin.md"
+      ]
+    },
+    {
+      "guest": "Jules Walter",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/jules-walter.md"
+      ]
+    },
+    {
+      "guest": "Julia Schottenstein",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/julia-schottenstein.md"
+      ]
+    },
+    {
+      "guest": "Julian Shapiro",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/julian-shapiro.md"
+      ]
+    },
+    {
+      "guest": "Julie Zhuo",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/julie-zhuo.md"
+      ]
+    },
+    {
+      "guest": "Karina Nguyen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/karina-nguyen.md"
+      ]
+    },
+    {
+      "guest": "Karri Saarinen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/karri-saarinen.md"
+      ]
+    },
+    {
+      "guest": "Katie Dill",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/katie-dill.md"
+      ]
+    },
+    {
+      "guest": "Kayvon Beykpour",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kayvon-beykpour.md"
+      ]
+    },
+    {
+      "guest": "Keith Coleman & Jay Baxter",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/keith-coleman--jay-baxter.md"
+      ]
+    },
+    {
+      "guest": "Keith Yandell",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/keith-yandell.md"
+      ]
+    },
+    {
+      "guest": "Ken Norton",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ken-norton.md"
+      ]
+    },
+    {
+      "guest": "Kenneth Berger",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kenneth-berger.md"
+      ]
+    },
+    {
+      "guest": "Kevin Aluwi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kevin-aluwi.md"
+      ]
+    },
+    {
+      "guest": "Kevin Weil",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kevin-weil.md"
+      ]
+    },
+    {
+      "guest": "Kevin Yien",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kevin-yien.md"
+      ]
+    },
+    {
+      "guest": "Kim Scott",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kim-scott.md"
+      ]
+    },
+    {
+      "guest": "Kristen Berman",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kristen-berman.md"
+      ]
+    },
+    {
+      "guest": "Krithika Shankarraman",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/krithika-shankarraman.md"
+      ]
+    },
+    {
+      "guest": "Kunal Shah",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/kunal-shah.md"
+      ]
+    },
+    {
+      "guest": "Lane Shackleton",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/lane-shackleton.md"
+      ]
+    },
+    {
+      "guest": "Laura Modi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/laura-modi.md"
+      ]
+    },
+    {
+      "guest": "Laura Schaffer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/laura-schaffer.md"
+      ]
+    },
+    {
+      "guest": "Lauren Ipsen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/lauren-ipsen.md"
+      ]
+    },
+    {
+      "guest": "Lauryn Isford",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/lauryn-isford.md"
+      ]
+    },
+    {
+      "guest": "Lazar Jovanovic",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/lazar-jovanovic.md"
+      ]
+    },
+    {
+      "guest": "Logan Kilpatrick",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/logan-kilpatrick.md"
+      ]
+    },
+    {
+      "guest": "Luc Levesque",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/luc-levesque.md"
+      ]
+    },
+    {
+      "guest": "Lulu Cheng Meservey",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/lulu-cheng-meservey.md"
+      ]
+    },
+    {
+      "guest": "Madhavan Ramanujam",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/madhavan-ramanujam.md"
+      ]
+    },
+    {
+      "guest": "Maggie Crowley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/maggie-crowley.md"
+      ]
+    },
+    {
+      "guest": "Manik Gupta",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/manik-gupta.md"
+      ]
+    },
+    {
+      "guest": "Marc Andreessen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/marc-andreessen.md"
+      ]
+    },
+    {
+      "guest": "Marc Benioff",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/marc-benioff.md"
+      ]
+    },
+    {
+      "guest": "Marily Nika",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/marily-nika.md"
+      ]
+    },
+    {
+      "guest": "Marty Cagan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/marty-cagan.md"
+      ]
+    },
+    {
+      "guest": "Matt Abrahams",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-abrahams.md"
+      ]
+    },
+    {
+      "guest": "Matt Dixon",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-dixon.md"
+      ]
+    },
+    {
+      "guest": "Matt LeMay",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-lemay.md"
+      ]
+    },
+    {
+      "guest": "Matt MacInnis",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-macinnis.md"
+      ]
+    },
+    {
+      "guest": "Matt Mochary",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-mochary.md"
+      ]
+    },
+    {
+      "guest": "Matt Mullenweg",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matt-mullenweg.md"
+      ]
+    },
+    {
+      "guest": "Matthew Dicks",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/matthew-dicks.md"
+      ]
+    },
+    {
+      "guest": "Maya Prohovnik",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/maya-prohovnik.md"
+      ]
+    },
+    {
+      "guest": "Mayur Kamat",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/mayur-kamat.md"
+      ]
+    },
+    {
+      "guest": "Megan Cook",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/megan-cook.md"
+      ]
+    },
+    {
+      "guest": "Melanie Perkins",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/melanie-perkins.md"
+      ]
+    },
+    {
+      "guest": "Melissa Perri",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/melissa-perri.md"
+      ]
+    },
+    {
+      "guest": "Melissa Tan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/melissa-tan.md"
+      ]
+    },
+    {
+      "guest": "Meltem Kuran",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/meltem-kuran.md"
+      ]
+    },
+    {
+      "guest": "Merci Grace",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/merci-grace.md"
+      ]
+    },
+    {
+      "guest": "Michael Truell",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/michael-truell.md"
+      ]
+    },
+    {
+      "guest": "Mihika Kapoor",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/mihika-kapoor.md"
+      ]
+    },
+    {
+      "guest": "Mike Krieger",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/mike-krieger.md"
+      ]
+    },
+    {
+      "guest": "Mike Maples Jr",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/mike-maples-jr.md"
+      ]
+    },
+    {
+      "guest": "Molly Graham",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/molly-graham.md"
+      ]
+    },
+    {
+      "guest": "Nabeel S. Qureshi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nabeel-s-qureshi.md"
+      ]
+    },
+    {
+      "guest": "Nan Yu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nan-yu.md"
+      ]
+    },
+    {
+      "guest": "Nancy Duarte",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nancy-duarte.md"
+      ]
+    },
+    {
+      "guest": "Naomi Gleit",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/naomi-gleit.md"
+      ]
+    },
+    {
+      "guest": "Naomi Ionita",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/naomi-ionita.md"
+      ]
+    },
+    {
+      "guest": "Nick Turley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nick-turley.md"
+      ]
+    },
+    {
+      "guest": "Nickey Skarstad",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nickey-skarstad.md"
+      ]
+    },
+    {
+      "guest": "Nicole Forsgren",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nicole-forsgren.md"
+      ]
+    },
+    {
+      "guest": "Nikhyl Singhal",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nikhyl-singhal.md"
+      ]
+    },
+    {
+      "guest": "Nikita Bier",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nikita-bier.md"
+      ]
+    },
+    {
+      "guest": "Nikita Miller",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nikita-miller.md"
+      ]
+    },
+    {
+      "guest": "Nilan Peiris",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nilan-peiris.md"
+      ]
+    },
+    {
+      "guest": "Nir Eyal",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/nir-eyal.md"
+      ]
+    },
+    {
+      "guest": "Noah Weiss",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/noah-weiss.md"
+      ]
+    },
+    {
+      "guest": "Noam Lovinsky",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/noam-lovinsky.md"
+      ]
+    },
+    {
+      "guest": "Oji Udezue",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/oji-udezue.md"
+      ]
+    },
+    {
+      "guest": "Paige Costello",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/paige-costello.md"
+      ]
+    },
+    {
+      "guest": "Patrick Campbell",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/patrick-campbell.md"
+      ]
+    },
+    {
+      "guest": "Paul Adams",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/paul-adams.md"
+      ]
+    },
+    {
+      "guest": "Paul Millerd",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/paul-millerd.md"
+      ]
+    },
+    {
+      "guest": "Pete Kazanjy",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/pete-kazanjy.md"
+      ]
+    },
+    {
+      "guest": "Peter Deng",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/peter-deng.md"
+      ]
+    },
+    {
+      "guest": "Petra Wille",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/petra-wille.md"
+      ]
+    },
+    {
+      "guest": "Phyl Terry",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/phyl-terry.md"
+      ]
+    },
+    {
+      "guest": "Raaz Herzberg",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/raaz-herzberg.md"
+      ]
+    },
+    {
+      "guest": "Rachel Lockett",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/rachel-lockett.md"
+      ]
+    },
+    {
+      "guest": "Rahul Vohra",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/rahul-vohra.md"
+      ]
+    },
+    {
+      "guest": "Ramesh Johari",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ramesh-johari.md"
+      ]
+    },
+    {
+      "guest": "Ravi Mehta",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ravi-mehta.md"
+      ]
+    },
+    {
+      "guest": "Ray Cao",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ray-cao.md"
+      ]
+    },
+    {
+      "guest": "Richard Rumelt",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/richard-rumelt.md"
+      ]
+    },
+    {
+      "guest": "Robby Stein",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/robby-stein.md"
+      ]
+    },
+    {
+      "guest": "Roger Martin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/roger-martin.md"
+      ]
+    },
+    {
+      "guest": "Ronny Kohavi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ronny-kohavi.md"
+      ]
+    },
+    {
+      "guest": "Ryan Hoover",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ryan-hoover.md"
+      ]
+    },
+    {
+      "guest": "Ryan J. Salva",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ryan-j-salva.md"
+      ]
+    },
+    {
+      "guest": "Ryan Singer",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/ryan-singer.md"
+      ]
+    },
+    {
+      "guest": "Sachin Monga",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sachin-monga.md"
+      ]
+    },
+    {
+      "guest": "Sahil Mansuri",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sahil-mansuri.md"
+      ]
+    },
+    {
+      "guest": "Sam Lessin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sam-lessin.md"
+      ]
+    },
+    {
+      "guest": "Sam Schillace",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sam-schillace.md"
+      ]
+    },
+    {
+      "guest": "Sanchan Saxena",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sanchan-saxena.md"
+      ]
+    },
+    {
+      "guest": "Sander Schulhoff",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sander-schulhoff.md"
+      ]
+    },
+    {
+      "guest": "Sarah Tavel",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sarah-tavel.md"
+      ]
+    },
+    {
+      "guest": "Scott Belsky",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/scott-belsky.md"
+      ]
+    },
+    {
+      "guest": "Scott Wu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/scott-wu.md"
+      ]
+    },
+    {
+      "guest": "Sean Ellis",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sean-ellis.md"
+      ]
+    },
+    {
+      "guest": "Seth Godin",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/seth-godin.md"
+      ]
+    },
+    {
+      "guest": "Shaun Clowes",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/shaun-clowes.md"
+      ]
+    },
+    {
+      "guest": "Sherwin Wu V2",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sherwin-wu-v2.md"
+      ]
+    },
+    {
+      "guest": "Shishir Mehrotra",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/shishir-mehrotra.md"
+      ]
+    },
+    {
+      "guest": "Shreyas Doshi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/shreyas-doshi.md"
+      ]
+    },
+    {
+      "guest": "Shreyas Doshi Live",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/shreyas-doshi-live.md"
+      ]
+    },
+    {
+      "guest": "Shweta Shriva",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/shweta-shriva.md"
+      ]
+    },
+    {
+      "guest": "Sri Batchu",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sri-batchu.md"
+      ]
+    },
+    {
+      "guest": "Sriram and Aarthi",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/sriram-and-aarthi.md"
+      ]
+    },
+    {
+      "guest": "Stewart Butterfield",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/stewart-butterfield.md"
+      ]
+    },
+    {
+      "guest": "Tamar Yehoshua",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tamar-yehoshua.md"
+      ]
+    },
+    {
+      "guest": "Tanguy Crusson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tanguy-crusson.md"
+      ]
+    },
+    {
+      "guest": "Teresa Torres",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/teresa-torres.md"
+      ]
+    },
+    {
+      "guest": "Tim Holley",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tim-holley.md"
+      ]
+    },
+    {
+      "guest": "Timothy Davis",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/timothy-davis.md"
+      ]
+    },
+    {
+      "guest": "Tobi Lutke",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tobi-lutke.md"
+      ]
+    },
+    {
+      "guest": "Todd Jackson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/todd-jackson.md"
+      ]
+    },
+    {
+      "guest": "Tom Conrad",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tom-conrad.md"
+      ]
+    },
+    {
+      "guest": "Tomer Cohen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tomer-cohen.md"
+      ]
+    },
+    {
+      "guest": "Tristan de Montebello",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/tristan-de-montebello.md"
+      ]
+    },
+    {
+      "guest": "Upasna Gautam",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/upasna-gautam.md"
+      ]
+    },
+    {
+      "guest": "Uri Levine",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/uri-levine.md"
+      ]
+    },
+    {
+      "guest": "Varun Mohan",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/varun-mohan.md"
+      ]
+    },
+    {
+      "guest": "Varun Parmar",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/varun-parmar.md"
+      ]
+    },
+    {
+      "guest": "Vijay",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/vijay.md"
+      ]
+    },
+    {
+      "guest": "Vikrama Dhiman",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/vikrama-dhiman.md"
+      ]
+    },
+    {
+      "guest": "Wes Kao",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/wes-kao.md"
+      ]
+    },
+    {
+      "guest": "Will Larson",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/will-larson.md"
+      ]
+    },
+    {
+      "guest": "Yuhki Yamashata",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/yuhki-yamashata.md"
+      ]
+    },
+    {
+      "guest": "Yuriy Timen",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/yuriy-timen.md"
+      ]
+    },
+    {
+      "guest": "Zevi Arnovitz",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/zevi-arnovitz.md"
+      ]
+    },
+    {
+      "guest": "Zoelle Egner",
+      "episode_count": 1,
+      "filenames": [
+        "podcasts/zoelle-egner.md"
+      ]
+    }
+  ]
+}
