@@ -137,7 +137,7 @@ function SessionPageContent() {
     setMessages((prev) => [...prev, { ...msg, id: crypto.randomUUID(), timestamp: nowHHMM() }]);
   };
 
-  const pushGuestMessage = async (guestId: string, text: string, episodeUrl?: string | null, delayMs = 700) => {
+  const pushGuestMessage = async (guestId: string, text: string, episodeUrl?: string | null, delayMs = 1200) => {
     const guest = GUESTS.find((g) => g.id === guestId);
     if (!guest) return;
     setTypingName(guest.name);
@@ -255,7 +255,7 @@ function SessionPageContent() {
       const msg: Msg = { id: crypto.randomUUID(), guestId, name: guest?.name ?? guestId, text: result.text, episodeUrl: result.episodeUrl, timestamp: nowHHMM() };
       newMsgs.push(msg);
       setTypingName(guest?.name ?? null);
-      await new Promise((r) => setTimeout(r, 700));
+      await new Promise((r) => setTimeout(r, 1200));
       setTypingName(null);
       setMessages((prev) => [...prev, msg]);
       rollingHistory = [...rollingHistory, { name: msg.name, text: msg.text, guestId }].slice(-14);

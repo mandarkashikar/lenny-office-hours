@@ -79,9 +79,9 @@ Instructions: Weave the grounding snippet naturally into your answer if it's rel
     },
     body: JSON.stringify({
       model,
-      temperature: 0.85,
-      top_p: 0.9,
-      max_tokens: 300,
+      temperature: 0.8,
+      top_p: 0.95,
+      max_tokens: 350,
       messages: [
         { role: 'system', content: system },
         { role: 'user', content: user },
@@ -117,6 +117,7 @@ export async function POST(req: Request) {
     topicId,
     userMessage: body.userMessage,
     excludeTexts: body.excludeTexts ?? [],
+    history: body.history ?? [],
   });
 
   const llmText = await generateWithLLM({
