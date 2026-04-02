@@ -115,16 +115,32 @@ function extractPassages(markdown: string): string[] {
   return passages;
 }
 
-function firstTwoSentences(text: string): string {
+function extractSentences(text: string, count: number = 3): string {
   const sentenceMatches = text.match(/[^.!?]+[.!?]+["']?/g);
   if (!sentenceMatches?.length) return text;
-  return sentenceMatches.slice(0, 2).join(' ').trim();
+  // Take up to `count` sentences, but cap at ~300 chars to keep it digestible
+  let result = sentenceMatches.slice(0, count).join(' ').trim();
+  if (result.length > 300) {
+    result = sentenceMatches.slice(0, Math.max(1, count - 1)).join(' ').trim();
+  }
+  return result;
 }
 
 function scorePassage(passage: string, queryTokens: string[]): number {
-  if (!queryTokens.length) return 0;
+  if (!queryTokens.length) {
+    // If no query tokens, prefer longer passages (more substantive)
+    return passage.split(/\s+/).length;
+  }
   const haystack = passage.toLowerCase();
-  return queryTokens.reduce((score, token) => (haystack.includes(token) ? score + 1 : score), 0);
+  const directMatches = queryTokens.reduce((score, token) => {
+    // Count occurrences, not just presence
+    const regex = new RegExp(token, 'g');
+    const matches = (haystack.match(regex) || []).length;
+    return score + matches;
+  }, 0);
+  // Bonus for substantive length (avoid one-liners)
+  const lengthBonus = Math.min(passage.split(/\s+/).length / 20, 3);
+  return directMatches + lengthBonus;
 }
 
 function normalizeForCompare(text: string): string {
@@ -160,17 +176,24 @@ export async function getGroundedGuestSnippet(args: {
   const ranked = passages
     .map((passage) => ({ passage, score: scorePassage(passage, queryTokens) }))
     .sort((a, b) => b.score - a.score)
-    .map((item) => firstTwoSentences(item.passage));
+    .map((item) => extractSentences(item.passage, 3));
 
   const excluded = new Set(excludeTexts.map((t) => normalizeForCompare(t)));
+  // Find the best non-excluded passage, or fall back to top 3 to allow variation
   const best = ranked.find((candidate) => !excluded.has(normalizeForCompare(candidate))) ?? ranked[0];
+  
+  if (!best && ranked.length > 0) {
+    return null; // All passages excluded (shouldn't happen, but safe guard)
+  }
 
-  if (!best) return null;
+
 
   // Look up the guest's real name from the markdown header for the URL lookup
   const headerMatch = markdown.match(/^#\s+(.+?)\s+on\s+/m);
   const guestRealName = headerMatch?.[1]?.trim() ?? '';
   const episodeUrl = await getEpisodeUrlForGuestName(guestRealName);
-
+  
   return { text: best, episodeUrl };
+
+
 }

@@ -19,14 +19,17 @@ async function generateWithLLM(args: {
   groundedText?: string;
   fallback: string;
 }): Promise<string | null> {
-  const apiKey = process.env.OPENAI_API_KEY;
+  const apiKey = process.env.OPENROUTER_API_KEY || process.env.OPENAI_API_KEY;
   if (!apiKey) return null;
 
   const guest = GUESTS.find((g) => g.id === args.guestId);
   const topic = getTopicById(args.topicId);
   if (!guest) return null;
 
-  const model = process.env.OPENAI_MODEL || 'gpt-4o-mini';
+  const model =
+    process.env.OPENROUTER_MODEL ||
+    process.env.OPENAI_MODEL ||
+    'qwen/qwen3.6-plus-preview:free';
 
   const historyText = args.history
     .slice(-14)
@@ -35,19 +38,25 @@ async function generateWithLLM(args: {
 
   const system = `You are ${guest.name} in a multi-person PM office-hours group chat.
 
-Persona context:
+Your voice:
 - Bio: ${guest.bio}
-- Context: ${guest.context}
-- Voice anchor: ${guest.story}
+- Story: ${guest.story}
+- Tone: Authentic, opinionated, and grounded. You have strong convictions but explain them clearly.
 
-Rules:
-- Keep reply to 2-4 concise sentences.
-- Sound human and specific, not generic.
-- React to the latest message and the conversation context.
-- Give practical advice with one concrete next step.
-- No bullet lists. No markdown.
-- Do not repeat wording from earlier replies.
-- Stay grounded in ${topic.title}.`;
+How you speak:
+- Keep it real. Short, punchy sentences. No corporate jargon or buzzwords.
+- Be specific. Use concrete examples, frameworks, or lessons from your work.
+- Disagree when you genuinely do—but do it respectfully. Show your thinking.
+- One bold take per message, not a listicle.
+- React naturally to what others say. Build on ideas, poke holes, ask follow-ups.
+- Give actionable advice: one thing they can try this week.
+
+Constraints:
+- 2-4 sentences max.
+- No bullet points. No markdown. No ALL CAPS.
+- Stay grounded in ${topic.title}.
+- Don't repeat yourself or other guests.
+- Sound like a real person in a chat, not a Wikipedia entry.`;
 
   const user = `Topic: ${topic.title}
 Latest message from user: ${args.userMessage}
@@ -55,12 +64,14 @@ Latest message from user: ${args.userMessage}
 Recent chat:
 ${historyText}
 
-Grounding snippet (if useful):
+---
+
+Grounding from their actual work/archive:
 ${args.groundedText ?? 'N/A'}
 
-If the grounding snippet is relevant, weave it naturally. If not, still answer in persona.`;
+Instructions: Weave the grounding snippet naturally into your answer if it's relevant. Don't cite it explicitly ("As I said..."). Just think it and respond. If it's not relevant, ignore it and answer from your perspective.`;
 
-  const response = await fetch('https://api.openai.com/v1/chat/completions', {
+  const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
@@ -68,7 +79,9 @@ If the grounding snippet is relevant, weave it naturally. If not, still answer i
     },
     body: JSON.stringify({
       model,
-      temperature: 0.9,
+      temperature: 0.85,
+      top_p: 0.9,
+      max_tokens: 300,
       messages: [
         { role: 'system', content: system },
         { role: 'user', content: user },
